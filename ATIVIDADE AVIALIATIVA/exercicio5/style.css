@@ -1,0 +1,11 @@
+*p:first-child{
+    text-align: left;
+}
+
+p:nth-child(2){
+    text-align: center;
+}
+
+p:nth-child(3){
+    text-align: right;
+}
